@@ -1,0 +1,40 @@
+/*1) Observe o trecho de código abaixo:
+
+int INDICE = 13, SOMA = 0, K = 0;
+
+enquanto K < INDICE faça
+
+{
+
+K = K + 1;
+
+SOMA = SOMA + K;
+
+}
+
+imprimir(SOMA);
+
+
+
+Ao final do processamento, qual será o valor da variável SOMA?
+*/
+
+Vamos analisar o código:
+
+Na primeira iteração do loop, K é incrementado de 1, passando de 0 para 1, e SOMA é incrementado de 1, já que K é igual a 1.
+Na segunda iteração, K é incrementado de 1 novamente, passando de 1 para 2, e SOMA é incrementado de 2, já que K é igual a 2.
+Esse processo continua até que K seja igual a 13, que é o valor de INDICE.
+Portanto, o código soma todos os números de 1 a 13. Isso é equivalente à soma dos números de 1 a N, onde N é o valor de INDICE.
+
+A soma dos números de 1 a N pode ser calculada usando a fórmula da soma de uma progressão aritmética:
+
+SOMA = (N * (N + 1)) / 2
+
+Substituindo N por 13:
+
+SOMA = (13 * (13 + 1)) / 2
+= (13 * 14) / 2
+= 91
+
+Portanto, ao final do processamento, o valor da variável SOMA será 91.
+

@@ -1,0 +1,40 @@
+3) Descubra a lógica e complete o próximo elemento:
+
+a) 1, 3, 5, 7, ___
+
+b) 2, 4, 8, 16, 32, 64, ____
+
+c) 0, 1, 4, 9, 16, 25, 36, ____
+
+d) 4, 16, 36, 64, ____
+
+e) 1, 1, 2, 3, 5, 8, ____
+
+f) 2,10, 12, 16, 17, 18, 19, ____
+
+
+RESPOSTAS
+
+a) 1, 3, 5, 7, ___
+Esta sequência é uma progressão aritmética com uma diferença constante de 2. O próximo número seria 7 + 2 = 9.
+Resposta: 1, 3, 5, 7, 9.
+
+b) 2, 4, 8, 16, 32, 64, ____
+Esta sequência é uma progressão geométrica onde cada número é multiplicado por 2. O próximo número seria 64 * 2 = 128.
+Resposta: 2, 4, 8, 16, 32, 64, 128.
+
+c) 0, 1, 4, 9, 16, 25, 36, ____
+Esta sequência é o resultado dos quadrados dos números naturais (0², 1², 2², 3², 4², 5², 6², ...). O próximo número seria 7² = 49.
+Resposta: 0, 1, 4, 9, 16, 25, 36, 49.
+
+d) 4, 16, 36, 64, ____
+Esta sequência é o resultado dos quadrados dos números pares (2², 4², 6², 8², ...). O próximo número seria 10² = 100.
+Resposta: 4, 16, 36, 64, 100.
+
+e) 1, 1, 2, 3, 5, 8, ____
+Esta sequência é a sequência de Fibonacci, onde cada número é a soma dos dois anteriores. O próximo número seria 5 + 8 = 13.
+Resposta: 1, 1, 2, 3, 5, 8, 13.
+
+f) 2,10, 12, 16, 17, 18, 19, ____
+Esta sequência não segue uma lógica aritmética ou geométrica óbvia. Parece que cada número é uma soma incremental do anterior.
+Resposta: 2, 10, 12, 16, 17, 18, 19, 20.
